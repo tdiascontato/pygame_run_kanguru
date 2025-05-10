@@ -136,4 +136,4 @@ seu_projeto/
 
 ## Licença
 
-MIT © Tiagão
+MIT © Tiago Dias
